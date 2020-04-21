@@ -1,0 +1,46 @@
+
+  
+  .note {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    grid-row-start: 2;
+    grid-row-end: 3;
+    box-shadow: rgba(0, 0, 0, 0.05) 0px 1px 0px, rgba(0, 0, 0, 0.05) 0px 2px 6px, rgba(0, 0, 0, 0.05) 0px 10px 20px;
+    padding:50px;
+  }
+  
+  .note p{
+    text-align: justify;
+    line-height: 1.8em;
+    ;
+  }
+  .left-logo {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+    align-items:flex-start;
+    margin-left: 40px;
+    grid-column-start: 1;
+    grid-column-end: 2;
+    grid-row-start: 2;
+    grid-row-end: 3;
+    height: 100vh;
+  }
+  .right-logo {
+    display: flex;
+    flex-direction: column;
+    grid-column-start: 3;
+    grid-column-end: 4;
+    grid-row-start: 2;
+    grid-row-end: 3;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+    align-items: stretch;
+  }
+  svg {
+    height: 100px;
+    fill:'rgb(243, 235, 235)'
+  }
+ 

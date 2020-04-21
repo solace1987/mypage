@@ -1,0 +1,44 @@
+.mywork{
+    
+   margin: 70px 10px 10px 40px;
+   border:1px solid grey;
+   width :80%;
+   background-color: lightyellow;
+   box-shadow: 0 10px 60px -10px rgba(0,0,0,.2);
+   -webkit-transition: box-shadow .5s;
+   transition: box-shadow .5s;
+   transition-property: box-shadow;
+   transition-duration: 0.5s;
+   transition-timing-function: ease;
+   transition-delay: 0s;
+height:20%;
+transform: translate(0%, 230%);
+    border-radius: 5px;
+    cursor: pointer;
+}
+
+.mywork-main{
+    height:95%;
+    margin:5px;
+    background-image: url('./asset/anete-lusina-zwsHjakE_iI-unsplash.jpg');
+    background-size: cover;
+    background-color:palevioletred ;
+    border-radius: 5px;
+}
+
+
+
+.label{
+    background-color: hsla(160, 18%, 27%, 0.5);
+    height: 100%;
+    
+}
+
+.mywork-main h2{
+    margin:0px;
+    color:white;
+    font-weight: 800;
+    font-size:2em;
+        position:absolute;
+        bottom:0;
+  }
