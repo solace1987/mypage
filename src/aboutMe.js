@@ -81,10 +81,9 @@ return (
         <p>
           Technology is my passion, Web Technology is what I specialized in. With
           three years experince and counting in delivering web product, both
-          for cooperate and individual project, let me introduce myself.
+          for cooperate and individual project.
           <br />
-          Ogundipe Oluwashola (Solace Coder), I deliver simple product that serves
-          the purpose the client wants it to, while factoring in the latest tech
+          I deliver simple product that serves the purpose the client wants it to, while factoring in the latest tech
           that would make the product better. I am a music lover that cherish
           time spent with family.
         </p>

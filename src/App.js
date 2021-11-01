@@ -9,7 +9,7 @@ function App() {
     <div className="App">
      <Home className='home'/>
      <About/>
-     <Contact/>
+     
     </div>
   );
 }
